@@ -1,1 +1,1 @@
-https://github.com/verrthx/ono-tebe-nado-ad
+https://github.com/verrthx/posmotri-v-okno-ad
